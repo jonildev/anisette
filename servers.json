@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "anisette",
+            "address": "http://192.168.178.191:6969"
+        }
+    ]
+}
